@@ -1,0 +1,28 @@
+{
+  "name": "desafio-postulantes",
+  "version": "1.0.0",
+  "description": "web scraper",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev"  : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Francooo2/desafio-postulantes.git"
+  },
+  "keywords": [],
+  "author": "Franco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Francooo2/desafio-postulantes/issues"
+  },
+  "homepage": "https://github.com/Francooo2/desafio-postulantes#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "puppeteer": "^13.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
