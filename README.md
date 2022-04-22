@@ -6,7 +6,7 @@ Este proyecto utiliza web scraping para extraer los datos solicitados de la sigu
 
 Devolviendo la información en formatro JSON al consultar la ruta raiz del proyecto.
 
-![Ejemplo.](https://github.com/Francooo2/desafio-postulantes/blob/example.png?raw=true "Ejemplo de respuesta")
+![Ejemplo.](https://github.com/Francooo2/desafio-postulantes/blob/main/example.png?raw=true "Ejemplo de respuesta")
 
 ### Pre-requisitos 📋
 
@@ -41,6 +41,12 @@ Una vez ejecutado npm run start, se debería ver la siguiente salida por consola
 
 ```
 Servidor corriendo en el puerto 3000
+```
+
+Posteriormente debes abrir el navegador y consultar el puerto en el cual este corriendo la aplicación, lo cual devolvera la información en formato JSON al navegador. En este caso el puerto corresponde al 3000.
+
+```
+localhost:3000
 ```
 
 ## Construido con 🛠️
